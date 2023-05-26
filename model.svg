@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="export" class="canvas" preserveAspectRatio="xMidYMid meet" style=""
+    width="203" height="195">
+    <rect id="background" fill="#fff" pointer-events="all" width="203" height="195" />
+    <g id="origin" transform="translate(8.85, 8.85) scale(1)">
+        <g id="clusters" class="clusters" />
+        <g id="edge-paths" class="edge-paths">
+            <defs>
+                <marker id="arrowhead" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8"
+                    markerHeight="6" orient="auto" style="fill: rgb(0, 0, 0);">
+                    <path d="M 0 0 L 10 5 L 0 10 L 4 5 z" style="stroke-width: 1;" />
+                </marker>
+                <marker id="arrowhead-select" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                    markerWidth="8" markerHeight="6" orient="auto" style="fill: rgb(238, 0, 0);">
+                    <path d="M 0 0 L 10 5 L 0 10 L 4 5 z" style="stroke-width: 1;" />
+                </marker>
+                <marker id="arrowhead-hover" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth"
+                    markerWidth="8" markerHeight="6" orient="auto" style="fill: rgb(238, 0, 0);">
+                    <path d="M 0 0 L 10 5 L 0 10 L 4 5 z" style="stroke-width: 1;" />
+                </marker>
+            </defs>
+            <path class="edge-path-hit-test"
+                d="M19.49658203125,23L19.49658203125,24.666666666666668C19.49658203125,26.333333333333332,19.49658203125,29.666666666666668,19.49658203125,35C19.49658203125,40.333333333333336,19.49658203125,47.666666666666664,19.49658203125,55C19.49658203125,62.333333333333336,19.49658203125,69.66666666666667,22.971289819525197,75C26.44599760780039,80.33333333333333,33.39541318435078,83.66666666666667,36.870120972625976,85.33333333333333L40.344828760901166,87"
+                style="pointer-events: stroke; stroke-width: 0.5em; fill: none; stroke-opacity: 0;" />
+            <path id="edge-eltwise_Y" class="edge-path"
+                d="M19.49658203125,23L19.49658203125,24.666666666666668C19.49658203125,26.333333333333332,19.49658203125,29.666666666666668,19.49658203125,35C19.49658203125,40.333333333333336,19.49658203125,47.666666666666664,19.49658203125,55C19.49658203125,62.333333333333336,19.49658203125,69.66666666666667,22.971289819525197,75C26.44599760780039,80.33333333333333,33.39541318435078,83.66666666666667,36.870120972625976,85.33333333333333L40.344828760901166,87"
+                style="stroke: rgb(0, 0, 0); stroke-width: 1px; fill: none; marker-end: url(&quot;#arrowhead&quot;);" />
+            <path class="edge-path-hit-test"
+                d="M109.14404296875,23L109.14404296875,24.666666666666668C109.14404296875,26.333333333333332,109.14404296875,29.666666666666668,109.14404296875,35C109.14404296875,40.333333333333336,109.14404296875,47.666666666666664,109.14404296875,55C109.14404296875,62.333333333333336,109.14404296875,69.66666666666667,105.66933518047482,75C102.1946273921996,80.33333333333333,95.24521181564921,83.66666666666667,91.77050402737403,85.33333333333333L88.29579623909883,87"
+                style="pointer-events: stroke; stroke-width: 0.5em; fill: none; stroke-opacity: 0;" />
+            <path id="edge-eltwise_X" class="edge-path"
+                d="M109.14404296875,23L109.14404296875,24.666666666666668C109.14404296875,26.333333333333332,109.14404296875,29.666666666666668,109.14404296875,35C109.14404296875,40.333333333333336,109.14404296875,47.666666666666664,109.14404296875,55C109.14404296875,62.333333333333336,109.14404296875,69.66666666666667,105.66933518047482,75C102.1946273921996,80.33333333333333,95.24521181564921,83.66666666666667,91.77050402737403,85.33333333333333L88.29579623909883,87"
+                style="stroke: rgb(0, 0, 0); stroke-width: 1px; fill: none; marker-end: url(&quot;#arrowhead&quot;);" />
+            <path class="edge-path-hit-test"
+                d="M64.3203125,110L64.3203125,113.66666666666667C64.3203125,117.33333333333333,64.3203125,124.66666666666667,64.3203125,132C64.3203125,139.33333333333334,64.3203125,146.66666666666666,64.3203125,150.33333333333334L64.3203125,154"
+                style="pointer-events: stroke; stroke-width: 0.5em; fill: none; stroke-opacity: 0;" />
+            <path id="edge-activation_output" class="edge-path"
+                d="M64.3203125,110L64.3203125,113.66666666666667C64.3203125,117.33333333333333,64.3203125,124.66666666666667,64.3203125,132C64.3203125,139.33333333333334,64.3203125,146.66666666666666,64.3203125,150.33333333333334L64.3203125,154"
+                style="stroke: rgb(0, 0, 0); stroke-width: 1px; fill: none; marker-end: url(&quot;#arrowhead&quot;);" />
+        </g>
+        <g id="edge-labels" class="edge-labels"><text class="edge-label" id="edge-label-edge-eltwise_Y"
+                transform="translate(24.49658203125,48)"
+                style="opacity: 1; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 10px;">
+                <tspan xml:space="preserve" dy="1em" x="1">32×3×100×100</tspan>
+            </text><text class="edge-label" id="edge-label-edge-eltwise_X" transform="translate(114.14404296875,48)"
+                style="opacity: 1; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 10px;">
+                <tspan xml:space="preserve" dy="1em" x="1">32×3×100×100</tspan>
+            </text><text class="edge-label" id="edge-label-edge-activation_output" transform="translate(69.3203125,125)"
+                style="opacity: 1; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 10px;">
+                <tspan xml:space="preserve" dy="1em" x="1">32×3×100×100</tspan>
+            </text></g>
+        <g id="nodes" class="nodes">
+            <g id="input-name-1" class="node graph-input" transform="translate(9.52783203125,0)" style="opacity: 1;">
+                <g class="node-item graph-item-input" transform="translate(0,0)">
+                    <path d="M5,0h9.9375a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-9.9375a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                        style="stroke: rgb(0, 0, 0); fill: rgb(238, 238, 238); stroke-width: 0;" /><text x="6" y="16"
+                        style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 11px; text-rendering: geometricprecision;">1</text>
+                    <title>float32[32,3,100,100]</title>
+                </g>
+                <path class="node border"
+                    d="M5,0h9.9375a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-9.9375a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                    style="stroke: rgb(51, 51, 51); fill: none; stroke-width: 1px;" />
+            </g>
+            <g id="input-name-0" class="node graph-input" transform="translate(99.14404296875,0)" style="opacity: 1;">
+                <g class="node-item graph-item-input" transform="translate(0,0)">
+                    <path d="M5,0h10a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-10a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                        style="stroke: rgb(0, 0, 0); fill: rgb(238, 238, 238); stroke-width: 0;" /><text x="6" y="16"
+                        style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 11px; text-rendering: geometricprecision;">0</text>
+                    <title>float32[32,3,100,100]</title>
+                </g>
+                <path class="node border"
+                    d="M5,0h10a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-10a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                    style="stroke: rgb(51, 51, 51); fill: none; stroke-width: 1px;" />
+            </g>
+            <g id="node-id-0" class="node graph-node" transform="translate(0,87)" style="opacity: 1;">
+                <g class="node-item node-item-type" transform="translate(0,0)">
+                    <path
+                        d="M5,0h118.640625a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-118.640625a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                        style="stroke: rgb(0, 0, 0); fill: rgb(0, 0, 0); stroke-width: 0;" /><text x="6" y="16"
+                        style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 11px; text-rendering: geometricprecision; fill: rgb(255, 255, 255);">fused_elementwise_add</text>
+                </g>
+                <path class="node border"
+                    d="M5,0h118.640625a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-118.640625a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                    style="stroke: rgb(51, 51, 51); fill: none; stroke-width: 1px;" />
+            </g>
+            <g class="node" transform="translate(54.3203125,154)" style="opacity: 1;">
+                <g class="node-item graph-item-output" transform="translate(0,0)">
+                    <path d="M5,0h10a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-10a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                        style="stroke: rgb(0, 0, 0); fill: rgb(238, 238, 238); stroke-width: 0;" /><text x="6" y="16"
+                        style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe WPC&quot;, &quot;Segoe UI&quot;, Ubuntu, &quot;Droid Sans&quot;, sans-serif, &quot;PingFang SC&quot;; font-size: 11px; text-rendering: geometricprecision;">0</text>
+                    <title>float32[32,3,100,100]</title>
+                </g>
+                <path class="node border"
+                    d="M5,0h10a5,5 0 0 1 5,5v13a5,5 0 0 1 -5,5h-10a5,5 0 0 1 -5,-5v-13a5,5 0 0 1 5,-5z"
+                    style="stroke: rgb(51, 51, 51); fill: none; stroke-width: 1px;" />
+            </g>
+        </g>
+    </g>
+</svg>

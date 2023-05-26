@@ -1,0 +1,20 @@
+# origin
+NETRON_APP_ORIGIN_ELEMMENT_ID = 'origin'
+
+# clusters
+
+# edges
+NETRON_APP_EDGES_ELEMENT_ID = 'edge-paths'
+NETRON_APP_EDGE_ID_PREFIX = 'edge-'
+NETRON_APP_TRUE_EDGE_CLASS = 'edge-path'
+
+# edge labels
+NETRON_APP_EDGE_LABELS_ELEMENT_ID = 'edge-labels'
+NETRON_APP_EDGE_LABEL_ID_PREFIX = 'edge-label-'
+
+# nodes
+NETRON_APP_NODES_ELEMENT_ID = 'nodes'
+NETRON_APP_NODE_CLASS = 'node'
+NETRON_APP_NODE_INTERIOR_CLASS = 'node-item'
+NETRON_APP_NODE_BORDER_CLASS = 'border'
+
