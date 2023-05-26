@@ -1,6 +1,6 @@
 from typing import Dict
 
-from app.models.point import Point
+from models.point import Point
 
 
 class Edge:
